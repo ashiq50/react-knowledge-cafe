@@ -1,53 +1,53 @@
 [
     {
       "Id": "1",
-      "cover-image": "https://i.ibb.co/dKVTYqk/red-light-round-podium-black-background-mock-up.jpg",
+      "cover": "https://i.ibb.co/qskc0rq/front-view-desk-concept-with-copy-space.jpg",
       "title": "The Secret Garden",
       "author": "Mary Jane",
       "author_image": "https://i.ibb.co/gmBs8YF/woman-embracing-book.jpg",
       "posted_date": "2024-03-12",
       "reading_time": 30,
-      "hashtags": ["fiction", "gardening", "adventure"]
+      "hashtags": ["fiction", "gardening"]
     },
     {
       "Id": "2",
-      "cover-image": "https://i.ibb.co/dKVTYqk/red-light-round-podium-black-background-mock-up.jpg",
+      "cover": "https://i.ibb.co/qskc0rq/front-view-desk-concept-with-copy-space.jpg",
       "title": "The Mysterious Case",
       "author": "John Doe",
       "author_image": "https://i.ibb.co/gmBs8YF/woman-embracing-book.jpg",
       "posted_date": "2024-03-11",
       "reading_time": 45,
-      "hashtags": ["mystery", "detective", "crime"]
+      "hashtags": ["mystery", "detective"]
     },
     {
       "Id": "3",
-      "cover-image": "https://i.ibb.co/dKVTYqk/red-light-round-podium-black-background-mock-up.jpg",
+      "cover": "https://i.ibb.co/qskc0rq/front-view-desk-concept-with-copy-space.jpg",
       "title": "Exploring the Unknown",
       "author": "Jane Smith",
       "author_image": "https://i.ibb.co/gmBs8YF/woman-embracing-book.jpg",
       "posted_date": "2024-03-10",
       "reading_time": 60,
-      "hashtags": ["exploration", "science", "journey"]
+      "hashtags": ["exploration", "science"]
     },
     {
       "Id": "4",
-      "cover-image": "https://i.ibb.co/dKVTYqk/red-light-round-podium-black-background-mock-up.jpg",
+      "cover": "https://i.ibb.co/qskc0rq/front-view-desk-concept-with-copy-space.jpg",
       "title": "Cooking Adventures",
       "author": "Chef Cook",
       "author_image": "https://i.ibb.co/gmBs8YF/woman-embracing-book.jpg",
       "posted_date": "2024-03-09",
       "reading_time": 25,
-      "hashtags": ["cooking", "recipes", "food"]
+      "hashtags": ["cooking", "recipes"]
     },
     {
       "Id": "5",
-      "cover-image": "https://i.ibb.co/dKVTYqk/red-light-round-podium-black-background-mock-up.jpg",
+      "cover": "https://i.ibb.co/qskc0rq/front-view-desk-concept-with-copy-space.jpg",
       "title": "Coding Chronicles",
       "author": "Byte Coder",
       "author_image": "https://i.ibb.co/gmBs8YF/woman-embracing-book.jpg",
       "posted_date": "2024-03-08",
       "reading_time": 40,
-      "hashtags": ["coding", "programming", "technology"]
+      "hashtags": ["coding", "programming"]
     }
   ]
   
